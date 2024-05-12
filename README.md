@@ -8,7 +8,7 @@
   <a href="#">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
-  <a href="https://instagram.com/meanhills">
+  <a href="https://instagram.com/mean_hills">
     <img src="https://img.shields.io/badge/Instagram-orange?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
@@ -35,7 +35,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-meanhills-orange?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/meanhills)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-meanhills-orange?style=flat&logo=Instagram&logoColor=white)](https://instagram.com/mean_hills)
 
 ---
 
